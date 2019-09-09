@@ -17,4 +17,3 @@ COMENTÁRIOS:
 
 Analisando as considerações foi identificado um erro quando foi informado que a 00:15 o ângulo é de 45 graus, na solução do problema isso foi corrigido para 90 graus.
 Para a solução do problema foi divido o relógio em 12 partes iguais por 360 graus, gerando o resultado de 30 graus para cada hora. O mesmo foi feito com os minutos, 60 dividido por 360 obtendo o resultado de 6 graus a cada minuto.
-Foi desconsiderado na solução do desafio que o ponteiro das horas avança a medida que o ponteiro dos minutos realiza uma volta completa.
